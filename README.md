@@ -1,2 +1,3 @@
 # GeneralSIC2021
-comit desde WEB 
+commit desde WEB 
+commit desde escritorio y archivo de texto
